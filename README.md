@@ -1,4 +1,4 @@
-# Origin Security Take-Home Assignment
+# Origin Data Take-Home Assignment
 
 **IMPORTANT**: 
 
