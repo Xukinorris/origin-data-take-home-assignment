@@ -46,7 +46,7 @@ The **transaction dataset** contains the basic information about the user bankin
 - date: transaction date
 - extra_fields.category.0: primary transaction category
 - extra_fields.category.1: secondary transaction category
-- extra_fields.category.2: thirdary transaction category
+- extra_fields.category.2: tertiary transaction category
 - extra_fields.merchant_name: merchant name
 - extra_fields.name: transaction description
 - extra_fields.payment_channel: payment channel
