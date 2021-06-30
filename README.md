@@ -12,14 +12,12 @@ Origin wants to help our users by being the single destination where they manage
 
 To help them with day-to-day financial management, one important data point is related to consumer habits, which can be analyzed through customer segmentation.
 
-Customer segmentation — also known as market segmentation — is the division of potential customers in a given market into discrete groups. That division is based on customers having similar enough:
-- Needs, so that a single whole product can satisfy them;
-- Buying characteristics, responses to messaging, marketing channels, and sales channels, so that a single go-to-market approach can be used to sell to them competitively and economically.
+Customer segmentation — also known as market segmentation — is the division of potential customers in a given market into discrete groups. That division is based on customers having similar enough (1) needs, so that a single whole product can satisfy them; and/or (2) buying characteristics, responses to messaging, marketing channels, and sales channels, so that a single go-to-market approach can be used to sell to them competitively.
 
 ---
 
 ## The business question
-Given the transaction and user datasets which reflect the cash flow behavior of users, segment the users based on buying patterns and provide suggestions to improve spending habit for each customer segment.
+Given the transaction and user datasets that reflect the cash flow behavior of users, segment the users based on buying patterns.
 
 ---
 
