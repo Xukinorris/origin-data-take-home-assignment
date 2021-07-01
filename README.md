@@ -63,8 +63,6 @@ Be aware that Origin will focus on the following evaluation criteria:
 ---
 
 ## Delivery Instructions
-You'll need to create a project to behave your data analysis and a presentation with your data insights report.
+You'll need to create a project to present your data analysis and a presentation with your data insights report.
 
-Create a public Github repository with your data analysis project and presentation, and share these deliverables with us.
-
-To share it. Don't create a fork. Send us the link to your repository, and make sure to make it public.
+Create a public Github repository with your data analysis project and presentation, and share these deliverables with us. Don't create a fork. Send us the link to your repository, and make sure to make it public.
